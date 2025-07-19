@@ -1,7 +1,6 @@
-<h1 align="center">
-  Hey there! 👋<br>
-  I'm <span style="color:#f58219">Rajesh</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F58219&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Rajesh" alt="Typing SVG"/>
+</p>
 
 <p align="center">
 🎓 3rd Year Computer Science Student at Jain University, Bangalore  
@@ -14,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Coding | ☕ Learning | 🌱 Growing
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"/> Coding | ☕ Learning | 🌱 Growing
 </p>
 
 
