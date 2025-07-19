@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=28&pause=1000&color=F58219&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Rajesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=28&pause=200&color=F58219&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Rajesh" alt="Typing SVG" />
 </p>
 
 
@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-💡 Love exploring tech and building meaningful projects. 
-  
+💡 Love exploring tech and building meaningful projects. </p>
+<p align="center">
 🛠️ Currently diving deep into Full Stack Development and exploring  Android App Development.  
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"/> Coding | ☕ Learning | 🌱 Growing
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"/> Coding | ☕ Learning | 🌱 Growing
 </p>
 
 
