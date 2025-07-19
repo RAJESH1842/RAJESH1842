@@ -1,4 +1,4 @@
-<h2>Hey there! 👋 I'm Rajesh (aka Bunny)</h2>
+<h2>Hey there! 👋 I'm Rajesh </h2>
 
 🎓 3rd Year CSE Student @ Jain University, Bangalore  
 🚀 Aspiring Full Stack Developer | Android Enthusiast | DSA Learner  
@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -15,21 +15,23 @@
 
 ---
 
-### 🚧 Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+###  Frameworks & Libraries
+[![React](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+
+
 
 ---
 
-### 🛢️ Databases
+###  Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### 💻 Current Projects
+###  Current Projects
 - 🔐 **SafeSentry** – Women’s safety app using AI 🔍
 - 📚 **Online Answer Script Evaluation** – Automating exam evaluation
 - 🌐 **SkillSwap** – Peer learning & Dev collaboration platform
