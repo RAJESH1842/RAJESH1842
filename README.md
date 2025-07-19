@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-💡 Love exploring tech and building meaningful projects. </p>
+💡 Love exploring tech and building projects. </p>
 <p align="center">
 🛠️ Currently diving deep into Full Stack Development and exploring  Android App Development.  
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rajput2107/rajput2107@master/Assets/rocket.gif" width="30"/> Consistency matters — learning every day, building every day.
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/settings.gif" width="30"/> Consistency matters — learning every day, building every day.
 </p>
 
 
