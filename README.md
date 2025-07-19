@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"/> Coding | ☕ Learning | 🌱 Growing
+  <img src="https://cdn.jsdelivr.net/gh/rajput2107/rajput2107@master/Assets/rocket.gif" width="30"/> Consistency matters — learning every day, building every day.
 </p>
 
 
