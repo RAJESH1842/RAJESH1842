@@ -7,8 +7,11 @@
 ---
 
 ### 🛠️ Languages & Tools
-
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ---
 
