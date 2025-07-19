@@ -4,17 +4,12 @@
 
 
 <p align="center">
-🎓 3rd Year Computer Science Student at Jain University, Bangalore  
+ Love exploring tech and building projects. </p>
+<p align="center">
+ Currently diving deep into Full Stack Development and exploring  Android App Development.  
 </p>
-
 <p align="center">
-💡 Love exploring tech and building projects. </p>
-<p align="center">
-🛠️ Currently diving deep into Full Stack Development and exploring  Android App Development.  
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/settings.gif" width="30"/> Consistency matters — learning every day, building every day.
+ Consistency matters — learning every day, building every day.
 </p>
 
 
@@ -64,7 +59,16 @@
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rajesh-v-2505432a4/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajeshsrrs2@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajesh-v-2505432a4/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:rajeshsrrs2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+</p>
+
 
 
