@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=28&pause=500&color=F58219&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Rajesh.;A+CS+Student+from+Jain+University.;Full+Stack+Dev+%7C+Android+%7C+DSA+Explorer" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=28&pause=1000&color=F58219&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Rajesh" alt="Typing SVG" />
 </p>
 
 
@@ -9,6 +9,7 @@
 
 <p align="center">
 💡 Love exploring tech and building meaningful projects. 
+  
 🛠️ Currently diving deep into Full Stack Development and exploring  Android App Development.  
 </p>
 
