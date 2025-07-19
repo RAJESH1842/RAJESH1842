@@ -1,8 +1,18 @@
-<h2>Hey there! 👋 I'm Rajesh </h2>
+<h1 align="center">
+  Hey there! 👋<br>
+  I'm <span style="color:#f58219">Rajesh</span>
+</h1>
 
-🎓 3rd Year CSE Student @ Jain University, Bangalore  
-🚀 Aspiring Full Stack Developer | Android Enthusiast | DSA Learner  
-💬 Let's connect and build amazing tech together!
+<p align="center">
+🎓 3rd Year Computer Science Student at Jain University, Bangalore  
+</p>
+
+<p align="center">
+💡 Passionate about building real-world tech, exploring new ideas, and turning concepts into working code.  
+🛠️ Currently exploring Full Stack Development and Android App Design.  
+🤝 Always open to collaborating on impactful and interesting projects.  
+</p>
+
 
 ---
 
@@ -45,7 +55,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?=your-github-username&show_icons=true&theme=tokyonight)
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJESH1842&show_icons=true&theme=tokyonight)
 
 ---
 
