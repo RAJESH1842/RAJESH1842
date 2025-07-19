@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F58219&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Rajesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F58219&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Rajesh" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
 🎓 3rd Year Computer Science Student at Jain University, Bangalore  
