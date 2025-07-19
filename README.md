@@ -46,5 +46,5 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
-[![My Cool Repo][ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?https://github.com/RAJESH1842=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
+[![My Cool Repo][ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?RAJESH1842=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
 
