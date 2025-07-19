@@ -13,6 +13,10 @@
 🤝 Always open to collaborating on impactful and interesting projects.  
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Coding | ☕ Learning | 🌱 Growing
+</p>
+
 
 ---
 
