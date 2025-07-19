@@ -8,7 +8,7 @@
 
 ### 🛠️ Languages & Tools
 
-[![Java](https://skillicons.dev/icons?i=Java)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ---
 
