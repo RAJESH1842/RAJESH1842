@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Java][(https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?=your-github-username&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -46,5 +46,4 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
-[![My Cool Repo][ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?RAJESH1842=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
 
