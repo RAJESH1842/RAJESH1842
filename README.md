@@ -2,7 +2,6 @@
 
 🎓 3rd Year CSE Student @ Jain University, Bangalore  
 🚀 Aspiring Full Stack Developer | Android Enthusiast | DSA Learner  
-🎯 Aiming for Product-Based Companies (10+ LPA)  
 💬 Let's connect and build amazing tech together!
 
 ---
@@ -47,3 +46,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+[![My Cool Repo][ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
+
