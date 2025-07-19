@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=28&pause=1000&color=F58219&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Rajesh.;A+CS+Student+from+Jain+University.;Full+Stack+Dev+%7C+Android+%7C+DSA+Explorer" />
-
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=28&pause=500&color=F58219&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Rajesh.;A+CS+Student+from+Jain+University.;Full+Stack+Dev+%7C+Android+%7C+DSA+Explorer" />
 </p>
 
 
@@ -9,10 +8,9 @@
 </p>
 
 <p align="center">
-💡 Love exploring tech and building meaningful projects.  
+💡 Love exploring tech and building meaningful projects. 
 🛠️ Currently diving deep into Full Stack Development and exploring  Android App Development.  
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"/> Coding | ☕ Learning | 🌱 Growing
@@ -65,8 +63,7 @@
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rajesh-v-2505432a4/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajeshsrrs2@gmail.com)
 
 
