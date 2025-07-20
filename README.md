@@ -25,7 +25,7 @@
 ---
 
 ###  Frameworks & Libraries
-[![React](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
